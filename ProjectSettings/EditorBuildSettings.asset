@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 7157b0767cac12548ae84beedf348bbb
+  - enabled: 1
+    path: Assets/Scenes/LanArena.unity
+    guid: df295fe1b4135b54caed8cbb405d8a46
+  - enabled: 1
+    path: Assets/Scenes/LanArena2.unity
+    guid: 55190560702898b49823cd48deb47c71
+  - enabled: 1
+    path: Assets/Scenes/Harbor.unity
+    guid: f977182841fc3ea4cac2bc21ecfe697b
+  m_configObjects: {}
